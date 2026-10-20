@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FamiGuard</string>
+    <string name="service_label">Blocage d\'applications FamiGuard</string>
+    <string name="service_desc">Permet à un parent de mettre en pause certaines applications. Détecte l\'application affichée pour appliquer les règles choisies par le parent.</string>
+</resources>
